@@ -1,2 +1,1 @@
-# python-100-days-of-code
-# python-100-days-of-code
+App Brewery 100 Days of Code
